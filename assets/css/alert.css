@@ -1,0 +1,31 @@
+.alertDanger {
+    background-color: #3b0000;
+    
+    border: 2px solid #ff9999;;
+    border-radius: 10px;
+    
+    padding: 15px 20px;
+
+    color: #ff9999;
+    font-size: 16px;
+    text-align: center;
+    
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.alertSuccess {
+    background-color: #003b00;
+    
+    border: 2px solid #99ff99;
+    border-radius: 10px;
+    
+    padding: 15px 20px;
+
+    color: #99ff99;
+    font-size: 16px;
+    text-align: center;
+    
+    max-width: 600px;
+    margin: 20px auto;
+}
