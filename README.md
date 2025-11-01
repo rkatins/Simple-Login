@@ -1,5 +1,6 @@
 # 🚗 Garage/Concesionario
-[!NOTE] Hace uso de una base de datos para el manejo de usuarios y del garaje.
+> [!NOTE]
+> Hace uso de una base de datos para el manejo de usuarios y del garaje.
 
 ## ✨ Funcionalidades Principales
 ✅ Añadir y Borrar Coches: Se nos permite añadir un nuevo coche a nuestro garaje o borrar uno existente.
@@ -7,7 +8,9 @@
 
 ## 🔑 Requisito de Acceso
 ⚠️ Acceso Seguro: Para acceder al garaje/concesionario se requiere pasar por un LLOGIN (iniciar sesión) o registrarnos en la APP para ver el listado de coches.
+
 ---
+
 # 🚗 Garage/Dealership
 > [!NOTE] 
 > It makes use of a database for user and garage management.
