@@ -4,6 +4,7 @@
 
 ## ✨ Funcionalidades Principales
 ✅ Añadir y Borrar Coches: Se nos permite añadir un nuevo coche a nuestro garaje o borrar uno existente.
+
 ✅ Funcionalidad de Búsqueda: También dispone de la funcionalidad de buscar por marca.
 
 ## 🔑 Requisito de Acceso
@@ -17,6 +18,7 @@
 
 ## ✨ Main Functionalities
 ✅ Adding and Deleting Cars: We are allowed to add a new car to our garage or delete an existing one.
+
 ✅ Search Functionality: It also has the functionality to search by brand.
 
 ## 🔑 Access Requirement
